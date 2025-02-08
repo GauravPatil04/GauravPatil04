@@ -13,7 +13,7 @@ I'm a zealous software developer with a love for technology and innovation. I en
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, Docker
 
-##📊 GitHub Stats
+## 📊 GitHub Stats
 ![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravPatil04&show_icons=true&theme=radical)
 
 ## Top Languages
