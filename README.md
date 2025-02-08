@@ -19,10 +19,9 @@ I'm a zealous software developer with a love for technology and innovation. I en
 ## Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPatil04&layout=compact&theme=radical)
 
-## Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/gaurav-patil04)
-- [Instagram](https://www.instagram.com/patil_gaurav10/)
-- [LeetCode](https://leetcode.com/u/Gaurav__007/)
-- [Personal Website](https://www.gauravpatil.com)
+# Connect me via
+- [LinkedIn](https://www.linkedin.com/in/your-profile){:target="_blank"}
+- [GitHub](https://github.com/your-profile){:target="_blank"}
+- [Twitter](https://twitter.com/your-profile){:target="_blank"}
 
 Feel free to reach out if you want to collaborate or just chat about tech!
