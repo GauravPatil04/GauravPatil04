@@ -8,7 +8,7 @@ I'm a zealous software developer with a love for technology and innovation. I en
 - ⚡ Fun fact: I love cycling and exploring new places.
 
 ## Skills
-- **Languages**: JavaScript, Python, Java, C++
+- **Languages**: Python, C++
 - **Frameworks**: Flask
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, Docker
