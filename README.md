@@ -13,12 +13,6 @@ I'm a zealous software developer with a love for technology and innovation. I en
 - **Databases**: MongoDB, MySQL
 - **Tools**: Git, Docker
 
-## 📊 GitHub Stats
-![Gaurav's GitHub stats](https://github-readme-stats.vercel.app/api?username=GauravPatil04&show_icons=true&theme=radical)
-
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravPatil04&layout=compact&theme=radical)
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/patil_gaurav10) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gaurav-patil04)  
 
