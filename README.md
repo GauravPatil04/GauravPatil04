@@ -6,7 +6,7 @@ I'm a zealous software developer with a love for technology and innovation. I en
 - 🔍 I’m looking to collaborate on exciting open-source projects.
 - 📫 How to reach me: gauravsp004@gmail.com.
 - ⚡ Fun fact: I love cycling and exploring new places.
-- 💻 Visit my [Portfolio]([https://portfolio-zeta-seven-35.vercel.app/](https://gaurav-portfolio-gules.vercel.app/)).
+- 💻 Visit my [Portfolio](https://gaurav-portfolio-gules.vercel.app/).
 
 
 ## Skills
